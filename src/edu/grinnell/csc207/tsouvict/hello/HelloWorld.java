@@ -6,5 +6,6 @@ public class HelloWorld
   main (String[] args)
 {
   System.out.println ("Yo, my name is victoria!");
+  System.out.println ("Yo, my name is not Polly!");
 } // main(String[])
 }
